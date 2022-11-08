@@ -17,17 +17,17 @@ export default function Navbar() {
           color="displayColor"
           fontWeight="bold"
           fontSize="32px">
-          <Bracket>&#123;</Bracket>GDSC<Bracket>&#125;</Bracket>
+          <Bracket>&#123;</Bracket>Gourlays<Bracket>&#125;</Bracket>
         </Text>
       </Box>
       <Spacer />
       <Box >
         <NextLink href="/" passHref>
           <Button as="a" variant="ghost" p="4" ml="3vw" fontSize="16px" color="textSecondary">
-            Home
+            HEHE
           </Button>
         </NextLink>
-        <NextLink href="/todo!" passHref>
+        <NextLink href="/CV copy.pdf" passHref>
           <Button as="a" variant="ghost" p="4" ml="3vw" fontSize="16px" color="textSecondary">
             CV
           </Button>
